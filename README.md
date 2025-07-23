@@ -35,7 +35,30 @@ Blogify is a full-stack blogging platform that allows users to create, manage, a
 
 ```bash
 git clone https://github.com/Aneesxghub/Blogify
+```
 
 2.Navigate to the project directory:
 
+```bash
 cd Blogify
+```
+
+3.Install dependencies:
+
+```bash
+npm install
+```
+
+🧪 Usage
+Start the development server:
+
+```bash
+npm start
+```
+
+🧪 Testing
+If a test suite is available, run:
+
+```bash
+npm test
+```
